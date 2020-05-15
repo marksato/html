@@ -1,3 +1,14 @@
-*{
+html body{
+  margin : 0 0;
+  padding : 0 0;
+  font-style:normal;
   background-color:#ededed;
+}
+
+a{
+  color:#242d6b;
+}
+
+footer{
+  font-size:.1em;
 }
